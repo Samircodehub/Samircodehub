@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samircodehub
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning how to fetch insights easily
+- 🌱 I’m currently learning how more easily fetch insights
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
