@@ -1,5 +1,3 @@
-  ![image](https://user-images.githubusercontent.com/108605935/212669046-164a665f-c45d-4aa0-a760-daa39c6fc62d.png)
-
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samircodehub&label=Profile%20views&color=0e75b6&style=flat" alt="samircodehub" /> </p>
