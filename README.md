@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircodehub" alt="samircodehub" /></a> </p>
 
-- 🔭 I’m currently working on **data science portfolio**
+- 🔭 I’m currently working on **data science portfolio as intern**
 
 - 💬 Ask me about **End to Emd data science**
 
