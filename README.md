@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/108605935/214587716-9dd18333-7735-403f-87c4-ce6a86939c32.png)
-<h4 align="left">Hi 👋, I'm Samir</h1>
-<h4 align="left"> I am a passionate for Data Scientist </h4>
-<h4 align="left">I am currently working as data science intern** </h4>
+### 👋, I'm Samir
+* I am a passionate for Data Scientist
+* I am currently working as data science intern
 
 
 ### 🔰 Experiece
