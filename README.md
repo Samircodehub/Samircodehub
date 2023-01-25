@@ -2,14 +2,16 @@
 <h4 align="left">Hi 👋, I'm Samir</h1>
 <h4 align="left"> I am a passionate for Data Scientist </h4>
 <h4 align="left">I am currently working as data science intern** </h4>
-<h4 align="left">
-1. Building and owning large-scale machine-learning models
-2. Processing large datasets 
-3. working with big data technologies, languages, and frameworks: SQL and python
-4. Designing experiments, setting up evaluations, and producing trustworthy conclusions.
-5. Experience in deploying end to end Machine Learning models pipeline with AWS
-6. Experience with Web applications and service architecture; Flask
-7. Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.</h4>
+
+
+### Experiece
+* Building and owning large-scale machine-learning models
+* Processing large datasets 
+* working with big data technologies, languages, and frameworks: SQL and python
+* Designing experiments, setting up evaluations, and producing trustworthy conclusions.
+* Experience in deploying end to end Machine Learning models pipeline with AWS
+* Experience with Web applications and service architecture; Flask
+* Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.
 
 
 ### Blogs posts
