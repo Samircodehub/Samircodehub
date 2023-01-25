@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/108605935/212832883-d21c76d8-7095-4774-81b4-4e7135cdf495.png)
+![image](https://user-images.githubusercontent.com/108605935/214587716-9dd18333-7735-403f-87c4-ce6a86939c32.png)
 
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
