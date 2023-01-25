@@ -5,6 +5,7 @@
 
 
 ### 🔰 Experiece
+________________________
 * Building and owning large-scale machine-learning models
 * Processing large datasets 
 * working with big data technologies, languages, and frameworks: SQL and python
@@ -15,6 +16,7 @@
 
 
 ## My Skill Set  
+_____________________________
 <table><tr><td valign="top" width="33%">
 
 
