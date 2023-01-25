@@ -44,6 +44,7 @@ _____________________________
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+ <a href="/wiki/File:Power_BI_logo.svg" class="image"><img alt="Power BI logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" decoding="async" width="70" height="70" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/140px-Power_BI_logo.svg.png 2x" data-file-width="96" data-file-height="96"></a><img alt="Power BI logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" decoding="async" width="70" height="70" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/105px-Power_BI_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/140px-Power_BI_logo.svg.png 2x" data-file-width="96" data-file-height="96"> </a>
 </div>
 
 </td><td valign="top" width="33%">
