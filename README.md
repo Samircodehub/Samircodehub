@@ -1,19 +1,15 @@
 ![image](https://user-images.githubusercontent.com/108605935/214587716-9dd18333-7735-403f-87c4-ce6a86939c32.png)
-<h3 align="left">Hi 👋, I'm Samir</h1>
-<h3 align="left">A passionate for Data Scientist </h3>
-<h3 align="left">I am currently working as data science intern** </h3>
-<h3 align="left">
+<h4 align="left">Hi 👋, I'm Samir</h1>
+<h4 align="left"> I am a passionate for Data Scientist </h4>
+<h4 align="left">I am currently working as data science intern** </h4>
+<h4 align="left">
 1. Building and owning large-scale machine-learning models
 2. Processing large datasets 
 3. working with big data technologies, languages, and frameworks: SQL and python
 4. Designing experiments, setting up evaluations, and producing trustworthy conclusions.
 5. Experience in deploying end to end Machine Learning models pipeline with AWS
 6. Experience with Web applications and service architecture; Flask
-7. Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samircodehub&label=Profile%20views&color=0e75b6&style=flat" alt="samircodehub" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircodehub" alt="samircodehub" /></a> </p>
+7. Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.</h4>
 
 
 ### Blogs posts
@@ -34,4 +30,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samircodehub&label=Profile%20views&color=0e75b6&style=flat" alt="samircodehub" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samircodehub" alt="samircodehub" /></a> </p>
