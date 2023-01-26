@@ -5,8 +5,8 @@
 
 ### 🔰 Experiece
 ________________________
-* Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.
-* Designing experiments, setting up evaluations, and producing trustworthy conclusions.
+* Experience with version control, modular design, code quality, testing, exception handeling, and pipeline maintainance
+* Designing experiments, setting up evaluations, and producing trustworthy conclusions with documentation
 * working with big data technologies, languages, and frameworks: SQL and python
 * Experience in deploying end to end Machine Learning models pipeline with AWS
 * Experience with Web applications and service architecture; Flask
