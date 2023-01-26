@@ -1,19 +1,17 @@
 ![image](https://user-images.githubusercontent.com/108605935/214587716-9dd18333-7735-403f-87c4-ce6a86939c32.png)
-### 👋, I'm Samir
-* I am a passionate for Data Scientist
+#### 👋, I'm Samir
 * I am currently working as data science intern
-
+* I am a passionate for data analysis, research and prediction to solve business problems
 
 ### 🔰 Experiece
 ________________________
-* Building and owning large-scale machine-learning models
-* Processing large datasets 
-* working with big data technologies, languages, and frameworks: SQL and python
+* Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.
 * Designing experiments, setting up evaluations, and producing trustworthy conclusions.
+* working with big data technologies, languages, and frameworks: SQL and python
 * Experience in deploying end to end Machine Learning models pipeline with AWS
 * Experience with Web applications and service architecture; Flask
-* Experience with version control, modular design, code quality, testing, exception handeling, pipeline maintainance and documentation.
-
+* Building and owning large-scale machine-learning models
+* Processing large datasets 
 
 ## My Skill Set  
 _____________________________
