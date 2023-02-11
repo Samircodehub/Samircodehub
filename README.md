@@ -40,6 +40,7 @@ _____________________________
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.heroku.com/home" data-trackable="{&quot;category&quot;:&quot;Top Navigation Menu&quot;,&quot;action&quot;:&quot;Level 0&quot;,&quot;label&quot;:&quot;Heroku&quot;}" data-trackable-nav="true">Heroku</a> 
 
 </div>
 
