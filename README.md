@@ -46,7 +46,7 @@ _____________________________
 </td><td valign="top" width="33%">
 
 
-![](https://github-readme-stats.vercel.app/api?username=Samircodehub&theme=red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samircodehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
