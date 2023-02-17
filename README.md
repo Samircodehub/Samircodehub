@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/108605935/214587716-9dd18333-7735-403f-87c4-ce6a86939c32.png)
 #### 👋, I'm Samir
 * I am currently working as data science intern
 * I am a passionate for data analysis, research and prediction to solve business problems
