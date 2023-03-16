@@ -1,4 +1,4 @@
-#### 👋, I'm Samir
+### 👋, I'm Samir
 * I am currently working as data science intern
 * I am a passionate for data analysis, research and prediction to solve business problems
 
